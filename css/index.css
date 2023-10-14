@@ -8,9 +8,10 @@ body {
 background-color: #FDFAF5;
 margin-bottom: 50px;
 }
-html, button, input, select, textarea {
+html, button, input, select, textarea, a, a:hover, a:focus {
     font-family: 'Montserrat', Helvetica, sans-serif;
     color: #bbb;
+    text-decoration: none;
 }
 h1 {
 text-align: center;
