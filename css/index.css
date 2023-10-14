@@ -8,7 +8,7 @@ body {
 background-color: #FDFAF5;
 margin-bottom: 50px;
 }
-html, button, input, select, textarea, a, a:hover, a:focus {
+p, button, input, select, textarea, a, a:hover, a:focus {
     font-family: 'Montserrat', Helvetica, sans-serif;
     color: #bbb;
     text-decoration: none;
@@ -16,6 +16,7 @@ html, button, input, select, textarea, a, a:hover, a:focus {
 h1 {
 text-align: center;
 margin: 30px 15px;
+color: #de7e85;
 }
 .zoom-area { 
 max-width: 490px;
